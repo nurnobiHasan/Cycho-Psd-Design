@@ -1,0 +1,330 @@
+@media all and (max-width:1200px){
+	.header-top-logo {
+		text-align: center;
+	}
+	.header-top-logo img {
+		width: 26%;
+	}
+	.header-top-nav ul{
+		text-align:center;
+	}
+	.header-top-nav ul li{
+		float:none;
+		display:inline;
+	}
+	.header-top-nav ul li a{
+		display:inline-block;
+	}
+	.header-top-contract ul{
+		float:none;
+		text-align:center;
+	}
+	.header-top-contract ul li{
+		float:none;
+		display:inline;
+	}
+	.header-top-contract ul li a{
+		display:inline-block !important;
+	}
+	.header-bottom-left-area {
+		padding-top:0px;
+	}
+	.header-bottom-area {
+		padding-bottom: 57px;
+		padding-top:0px;
+	}
+	.header-bottom-left-area {
+		text-align: center;
+	}
+	.header-bottom-left-area p {
+		font-size: 21px;
+	}
+	.header-bottom-left-area h1 {
+		font-size: 33px;
+		width: 80%;
+		margin: 0 auto;
+	}
+	.header-bottom-left-area a{
+		margin-bottom:30px;
+	}
+	.custom-c {
+		text-align: center;
+		padding-left:0px;
+	}
+	.card-img {
+		width: 33%;
+		margin: 0 auto;
+	}
+	.custom-c {
+		height: 288px !important;
+		padding:0px 0px;
+	}
+	.exprence-area-left {
+		margin-top: -5%;
+
+	}
+	.our-brain-area {
+		padding-top: 44px;
+	}
+	.our-brain-area h1 {
+		width: 55%;
+		margin: 0 auto;
+		font-size: 24px;
+		padding-bottom:12px;
+		padding-top:0px;
+	}
+	.exprence-area-left {
+		margin-top: -4%;
+	}
+	.our-service-area {
+		width: 102%;
+	}
+	.exprence-area-left img {
+		width: 105%;
+	}
+	.exprence-area {
+		padding-bottom: 45px;
+	}
+	.brain-concep-area img {
+		width: 8%;
+	}
+	.brain-concep-area h1 {
+		font-size: 44px;
+		width: 76%;
+	
+	}
+	.register {
+		margin-top: -9% !important;
+	
+	}
+	.register-form {
+		width: 102%;
+	}
+	.suggation{
+		margin-top:50px;
+	}
+	.suggation {
+		text-align: center;
+	}
+	.suggation h1 {
+		font-size: 25.6px !important;
+		width: 40%;
+		margin: 0 auto;
+		padding-bottom:20px;
+	}
+	.count-area {
+		width: 55%;
+		margin: 0 auto;
+	}
+	.our-presen-area {
+		width: 102%;
+		width: 102%;
+	}
+	.present-overly span{
+		font-size: 20px !important ;
+	
+	}
+	.owl-prev,.owl-next{
+		top: 10%;
+	}
+	.single-servicen {
+		margin-top: 46px;
+	}
+	.btn {
+		padding-left: 41%;
+	}
+	.map-area {
+		padding: 79px 0px;
+	}
+	.our-service-area2 {
+		padding-bottom: 98px;
+	}
+	.our-icon-slider {
+		width: 102%;
+	}
+	.our-therapy-area {
+		width: 102%;
+	}
+	.our-service-area2 {
+		width: 102%;
+		padding-top: 0px;
+	}
+	.map-area {
+		width: 102%;
+	}
+	.google-map {
+	width:102%;
+	margin-top: 40px;
+	}
+	.our-contract-area{
+		width:65%;
+		margin: 0 auto;
+		padding-left:0px;
+	}
+	.our-contract-area{
+		overflow:hidden !important;
+	}
+	.review {
+		margin-top: 40px;
+	}
+	.google-map img {
+		height: 111%;
+	}
+	.nur {
+		padding-left: 0px;
+		text-align: center;
+	}
+	.review-title h1 {
+		font-size: 34px;
+		margin:0 auto ;
+	}
+	.review-area {
+		width: 102%;
+	}
+	.single-operation-overly {
+		width: 36%;
+		height: 36%;
+		bottom: 0px;
+		background: black;
+	}
+	.secess-count p i {
+		font-size:60px;
+	
+	}
+	.f-bottom-left p.sycho-text {
+		padding-bottom: 8%;
+	}
+	.f-bottom-left {
+		padding-top: 79px;
+	}
+	.footer-service h1 {
+		padding-top: 68px;
+	}
+	.footer-contract h1 {
+		padding-top: 90px;
+	}
+	.footer-right form {
+		width: 50%;
+	}
+	.f-bottom-left {
+		text-align: center;
+	}
+	.footer-service {
+		text-align: center;
+	}
+	.f-bottom-left p.sycho-text{
+		margin:0 auto;
+	}
+	.f-bottom-left ul{
+		text-align:center;
+	}
+	.f-bottom-left ul li{
+		float:none;
+		display:inline;
+	}
+	.f-bottom-left ul li a{
+		display:inline-block;
+	}
+	.footer-contract p {
+		width: 100%;
+	}
+	.footer-contract{
+		text-align:center;
+	}
+	.footer-right {
+		text-align: center;
+	}
+	.footer-right h1{
+		padding-top:50px;
+	}
+	.footer-right form {
+		width:60%;
+		margin: 0 auto;
+	}	
+	.opperation-success-area {
+		padding-bottom: 0px !important;
+	}
+	.footer-top-left h1{
+		padding:30px 0px;
+	}
+	.single-operation {
+		margin-bottom: 18px;
+	}
+	
+}
+@media all and (max-width:992px){
+	.single-present {
+		margin-bottom:44px;
+	}
+	.single-operation-overly {
+		width: 48%;
+		height: 42%;
+	}
+}
+@media all and (max-width:767px){
+	.card-img img {
+		width: 41% !important;
+	}
+	.card{
+		border:none;
+	}
+	.exprence-area-overly h1{
+		font-size:22px;
+	}
+	.brain-concep-area h1 {
+		font-size: 27px;
+		width: 79%;
+		line-height: 36px;
+	}	
+	.single-pasent {
+		margin-bottom: 38px;
+	}
+	.doctor-comment {
+		text-align: center;
+	}
+	.doctor-comment p{
+		margin:0 auto;
+	}
+	.register {
+		margin-top: 9% !important;
+	}
+	.doctor-comment ul li {
+		margin-bottom: 34px;
+	}
+	.count-area {
+		width: 100%;
+	}
+	.btn {
+		padding-left: 34%;
+	}
+	.owl-carousel .owl-item img {
+		height: 120px;
+	}
+	.single-operation-overly {
+		width: 81%;
+		height: 60%;
+		background:rgba(213, 144, 129,0.5);
+	}
+	.single-operation-overly h1 {
+		color: #212626;
+	}	
+	.doctor-pik {
+		margin-top: 5%;
+		height: 550px !important;
+	}
+	.doctor-pik img{
+		height:100%;
+	}
+	.doctor-comment {
+		padding-top:15px;
+	}
+	.mobile-menu{
+		display:block;
+	}
+	.header-top-nav ul{
+		display:none;
+	}
+	.header-top-nav ul li{
+		display:block;
+	}
+	}
